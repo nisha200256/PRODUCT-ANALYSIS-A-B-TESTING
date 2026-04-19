@@ -7,6 +7,7 @@ This project analyzes user behavior in an e-commerce platform to understand conv
 Analyze user funnel (view → cart → purchase)
 Identify drop-offs in conversion
 Conduct A/B testing to evaluate performance differences
+
 🛠️ Tools Used
 Python (Pandas, NumPy)
 Matplotlib
@@ -19,6 +20,7 @@ Calculated stage-wise conversion rates
 🔹 A/B Testing
 Conducted proportion Z-test
 P-value: 0.83 → No significant difference
+
 💡 Key Insights
 Most users drop before completing purchase
 No measurable impact between tested variants
@@ -26,17 +28,7 @@ No measurable impact between tested variants
 Improve checkout experience
 Test stronger product/design changes
 Continue experimentation
+
 📂 Project Structure
 notebooks/analysis.ipynb
 data/ (optional sample)
-
-
-
- 
-
-
-I’ll:
-
-Improve your README
-Suggest final tweaks
-Make it Singapore job ready 🔥
